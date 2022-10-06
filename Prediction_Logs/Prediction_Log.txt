@@ -294,3 +294,8 @@
 2022-10-06/03:34:03		Entered the load_model method of the File_Operation class
 2022-10-06/03:34:03		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
 2022-10-06/03:34:04		End of Prediction
+2022-10-06/11:33:36		Start of Validation on files for prediction!!
+2022-10-06/11:34:28		Start of Validation on files for prediction!!
+2022-10-06/11:34:45		Start of Validation on files for prediction!!
+2022-10-06/11:34:51		Start of Validation on files for prediction!!
+2022-10-06/11:34:53		Start of Validation on files for prediction!!

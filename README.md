@@ -278,7 +278,7 @@ etc.
 
 
 # PREDICTION
-'''
+```
 
 Similar process will be used for the data predicton which was used for training data.
 Read client data
@@ -290,11 +290,11 @@ Clustering
 Now we have to cluster number for individuals rows
 Load cluster models
 Predictions and move it in a csv file.
-'''
+```
 
 # DEPLOYMENT
 
-'''
+```
 Need to add two files.
 
 1. requirements.txt
@@ -336,5 +336,5 @@ CLOUD DEPLOYMENT:
 Once your application is deployed successfully, enter the command ‘heroku logs --tail’ to see the logs.
 
 
-'''
+```
 
